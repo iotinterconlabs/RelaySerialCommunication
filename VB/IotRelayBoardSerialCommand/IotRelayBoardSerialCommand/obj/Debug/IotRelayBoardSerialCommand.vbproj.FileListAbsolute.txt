@@ -1,0 +1,10 @@
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\obj\Debug\IotRelayBoardSerialCommand.Resources.resources
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\obj\Debug\IotRelayBoardSerialCommand.vbproj.GenerateResource.cache
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\obj\Debug\IotRelayBoardSerialCommand.vbproj.CoreCompileInputs.cache
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\bin\Debug\IotRelayBoardSerialCommand.exe.config
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\bin\Debug\IotRelayBoardSerialCommand.exe
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\bin\Debug\IotRelayBoardSerialCommand.pdb
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\bin\Debug\IotRelayBoardSerialCommand.xml
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\obj\Debug\IotRelayBoardSerialCommand.exe
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\obj\Debug\IotRelayBoardSerialCommand.xml
+C:\Users\AnuragMahanto\source\repos\IotRelayBoardSerialCommand\IotRelayBoardSerialCommand\obj\Debug\IotRelayBoardSerialCommand.pdb
